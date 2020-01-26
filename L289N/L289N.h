@@ -1,6 +1,5 @@
 #ifndef L289N__
 #define L289N__
-#endif
 
 #include "Arduino.h"
 
@@ -18,3 +17,5 @@ public:
   bool invert;
   bool forwardDirection, backwardDirection;
 };
+
+#endif
